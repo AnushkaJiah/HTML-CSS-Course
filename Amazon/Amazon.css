@@ -1,0 +1,53 @@
+    .amazon {
+        color: rgb(0,133,133);
+    }
+    .amazon:hover {
+        color: rgb(193, 117, 4);
+    }
+
+
+    .text {
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+
+    .price {
+        color: rgb(0, 118, 0);
+        font-weight: bold;
+    }
+
+
+    .btn1 {
+        background-color: rgb(255, 216, 20);
+        border: none;
+        height: 26px;
+        width: 108px;
+        border-radius: 13px;
+        margin-right: 10px;
+        cursor: pointer;
+    }
+    .btn1:hover {
+        opacity: 0.8;
+    }
+    .btn1:active {
+        opacity: 0.5;
+    }
+
+
+    .btn2 {
+        background-color: rgb(255, 164, 28);
+        border: none;
+        height: 26px;
+        width: 108px;
+        border-radius: 13px;
+        margin-right: 10px;
+        cursor: pointer;
+    }
+    .btn2:hover {
+        background-color: rgb(221, 126, 9);
+
+    }
+    .btn2:active {
+        opacity: 0.5;
+    }

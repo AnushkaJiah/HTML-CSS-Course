@@ -1,0 +1,56 @@
+div {
+    font-family: Arail;
+}
+
+.sidebar1 {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    background-color: rgb(33, 33, 33);
+}
+
+.Pic {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+
+.sidebar2 {
+    background-color: rgb(55, 55, 55);
+    position: fixed;
+    left: 70px;
+    top: 0;
+    bottom: 0;
+    width: 150px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 10px;
+    align-items: center;
+}
+
+.info {
+    color: white;
+    font-size: 14px;
+}
+
+.add {
+    color: rgb(150, 150, 150);
+    font-size: 25px;
+}
+
+.channel {
+    color: rgb(150, 150, 150);
+    margin-bottom: 14px;
+}

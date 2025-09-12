@@ -1,0 +1,47 @@
+.top-pic {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.container {
+  position: relative;
+  display: inline-block;
+}
+
+.tag {
+  background-color: black;
+  color: white;
+  position: absolute;
+  font-size: Arial;
+  top: 10px;
+  right: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.btn-container {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+  display: flex;
+  background-color: rgba(255, 255, 255, 0.8);
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  border-style: solid;
+  background-color: white;
+  border-color: black;
+  border-width: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  cursor: pointer;
+}
