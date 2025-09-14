@@ -8,7 +8,6 @@ This project replicates the layout and design of YouTube including the header, s
 ![Forks](https://img.shields.io/github/forks/AnushkaJiah/HTML-CSS-Course?style=for-the-badge&color=ff006e)  
 ![Stars](https://img.shields.io/github/stars/AnushkaJiah/HTML-CSS-Course?style=for-the-badge&color=ff006e)  
 ![Issues](https://img.shields.io/github/issues/AnushkaJiah/HTML-CSS-Course?style=for-the-badge&color=ff006e)  
-![License](https://img.shields.io/github/license/AnushkaJiah/HTML-CSS-Course?style=for-the-badge&color=ff006e)  
 
 
 ## 🚀Features
