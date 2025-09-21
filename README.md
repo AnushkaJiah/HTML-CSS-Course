@@ -1,5 +1,7 @@
 
 # 🎬 YouTube Clone
+![HTML5](https://img.shields.io/badge/HTML5-pink?logo=html5) 
+![CSS3](https://img.shields.io/badge/CSS3-purple?logo=css3) 
 
 A front-end clone of the YouTube.com interface built with pure HTML & CSS 🎨.
 This project replicates the layout and design of YouTube including the header, sidebar, and video grid.
