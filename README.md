@@ -78,14 +78,14 @@ Make the site fully responsive for mobile devices
 Implement dark mode toggle
 ## Acknowledgements
 
-Inspired by YouTube.com UI
+- [ ] Inspired by YouTube.com UI
 
-Fonts by Google Fonts (Roboto)
+- [ ] Fonts by Google Fonts (Roboto)
 
-Icons from YouTube’s official style
+- [ ] Icons from YouTube’s official style
 
 ---
 
 
-💡 This project is a great practice for anyone learning front-end development. If you like it, don’t forget to ⭐ the repo!
+### This project is a great practice for anyone learning front-end development. If you like it, don’t forget to ⭐ the repo!
 
